@@ -14,7 +14,7 @@ Działam praktycznie: samodzielnie rozwijam projekty, zarządzam serwerami i wdr
 ### 🔎 Mój główny projekt
 #### 🟡 [StatusFlow](https://github.com/szymonwys/StatusFlow)
 Open-source'owe narzędzie do monitoringu usług – **projekt w trakcie aktywnego rozwoju**, pisany w Go z graficznym interfejsem (Fyne).  
-Docelowo będzie obsługiwać testy HTTP, DNS, SMTP, TCP oraz harmonogramy i WebSockety.  
+Docelowo będzie obsługiwać testy HTTP, DNS, TCP, UDP oraz harmonogramy i WebSockety.  
 Idealne dla małych firm lub jako narzędzie edukacyjne do nauki DevOps i infrastruktury.
 
 > 🔨 StatusFlow nie jest jeszcze ukończony – koduję go po szkole i rozwijam na bieżąco.
