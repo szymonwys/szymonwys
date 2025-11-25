@@ -12,18 +12,40 @@ Działam praktycznie: samodzielnie rozwijam projekty, zarządzam serwerami i wdr
 ---
 
 ### 🔎 Mój główny projekt
-#### 🟡 [StatusFlow](https://github.com/szymonwys/StatusFlow)
-Open-source'owe narzędzie do monitoringu usług – **projekt w trakcie aktywnego rozwoju**, pisany w Go z graficznym interfejsem (Fyne).  
-Docelowo będzie obsługiwać testy HTTP, DNS, TCP, UDP oraz harmonogramy i WebSockety.  
-Idealne dla małych firm lub jako narzędzie edukacyjne do nauki DevOps i infrastruktury.
+#### 🟡 [HelpDesk & CyberAgent](https://hca.edu.pl)
+**HelpDesk & CyberAgent to chmurowa platforma stworzona z myślą o szkołach, umożliwiająca bezpieczne zgłaszanie incydentów cyfrowych, obsługę spraw przez pedagogów oraz edukację uczniów w zakresie cyberbezpieczeństwa.**
 
-> 🔨 StatusFlow nie jest jeszcze ukończony – koduję go po szkole i rozwijam na bieżąco.
+Projekt łączy w jednym miejscu:
+- formularz zgłoszeniowy dla uczniów (anonimowy lub jawny),
+- panel operacyjny dla kadry (pedagodzy, psychologowie, nauczyciele),
+- moduły edukacyjne o bezpieczeństwie i higienie cyfrowej.
+
+System działa w pełni w chmurze — szkoły mogą korzystać z niego bez instalacji i konfiguracji po swojej stronie.
+
+🔧 Technologie:
+- Frontend: React + Vite
+- Backend: Node.js (Express 5)
+- Baza danych: PostgreSQL
+- Auth: JWT, role i uprawnienia
+  
+Architektura: multi-tenant, REST API
+
+🎯 Główne funkcje:
+- zgłaszanie przypadków cyberprzemocy, phishingu, hejtu i innych incydentów,
+- zarządzanie sprawami, statusami i przypisaniami,
+- historia i podsumowania dla dyrekcji,
+- moduły edukacyjne i quizy dla uczniów oraz kadry,
+- bezpieczny model chmurowy z automatycznymi aktualizacjami.
+
+🎓 Cel projektu
+
+*Wspierać szkoły w tworzeniu bezpiecznego środowiska cyfrowego, umożliwić szybką reakcję na incydenty oraz budować świadomość zagrożeń wśród uczniów i nauczycieli.*
 
 ---
 
 ### ⚙️ Technologie, które znam lub rozwijam
-- **Języki**: Go, PHP, Bash, JavaScript (podstawy)
-- **Monitoring & Admin**: Linux (Debian/Ubuntu), Uptime Kuma, Netdata, systemd
+- **Języki**: Go, PHP, Bash, JavaScript, TypeScript
+- **Monitoring & Admin**: Linux (Debian/Ubuntu), Uptime Kuma, Netdata, systemd, docker, docker-compose
 - **Usługi sieciowe**: DNS, HTTP(S), LDAP, Active Directory, SMTP, TrueNAS
 - **Inne**: Fyne (GUI w Go), WebSocket, Git, MySQL, MongoDB (podstawy), WordPress
 
