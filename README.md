@@ -7,7 +7,7 @@ Działam praktycznie: samodzielnie rozwijam projekty, zarządzam serwerami i wdr
 - 🔧 Administrowanie serwerami (Linux, VPS, DNS, poczta, www)
 - 📡 Tworzenie narzędzi do monitorowania i testowania usług sieciowych
 - 🛠️ Praktyczna znajomość LDAP, Active Directory, TrueNAS, WebSocketów
-- 🧠 Obecnie rozwijam się w Go, wcześniej działałem też w Node.js, PHP i WordPressie
+- 🧠 Obecnie rozwijam się w TypeScript, działam w Node.js, PHP i WordPressie
 
 ---
 
