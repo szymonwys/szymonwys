@@ -1,6 +1,6 @@
 # 👋 Cześć, jestem Szymon
 
-Mam 16 lat i interesuję się infrastrukturą IT, administracją systemów, monitoringiem i bezpieczeństwem.  
+Mam 17 lat i interesuję się infrastrukturą IT, administracją systemów, monitoringiem i bezpieczeństwem.  
 Działam praktycznie: samodzielnie rozwijam projekty, zarządzam serwerami i wdrażam narzędzia open-source w firmie Sunrise PHU.
 
 ### 💼 Co robię?
